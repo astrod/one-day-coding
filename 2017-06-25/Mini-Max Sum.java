@@ -1,5 +1,6 @@
 문제 : https://www.hackerrank.com/challenges/mini-max-sum
 
+
 public class Solution {
 
     public static void main(String[] args) {
